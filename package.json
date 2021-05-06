@@ -27,7 +27,7 @@
     "dependencies": {
         "babel-core": "^6.26.3",
         "inputmask": "^5.0.3",
-        "json": "^9.0.6",
+        "json": "^10.0.0",
         "mongoose": "^5.9.4",
         "socket.io": "^2.3.0",
         "v-mask": "^2.1.0",
